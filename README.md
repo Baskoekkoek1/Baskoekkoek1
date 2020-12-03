@@ -2,7 +2,7 @@
 
 ... and at the moment I am finishing the Codaisseur Full Stack JavaScript Academdy. :books:
 
-Here I've learned all the technologies and concepts listed here
+Here I've learned all the technologies and concepts listed here <br/>
 <--
 
 Currently 
