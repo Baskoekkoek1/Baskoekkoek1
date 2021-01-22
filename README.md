@@ -2,7 +2,7 @@
 
 ### Hello! My name is Bas Koekkoek...
 
-... and at the moment I am finishing the Codaisseur Full Stack JavaScript Academdy. :books:
+... and I have recently graduated the Codaisseur Full Stack JavaScript Academdy, currently I'm looking for a new adventure. :seedling:
 
 At Codaisseur I've learned all the technologies and concepts listed here <br/>
 <--------------------------------------------------------------------
